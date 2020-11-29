@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Services
 title:  "distractions are the prelude to goals"
 date:   2015-02-12 13:46:40
 categories: jekyll update
